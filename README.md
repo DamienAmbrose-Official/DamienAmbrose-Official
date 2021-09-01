@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/TBSfN0K/Damien-Ambrose.png)
+![Damien Ambrose](https://user-images.githubusercontent.com/89913900/131695130-8c90e595-f49b-4be9-8b78-38e0af6ad365.png)
 ## About
 <p>Hey! I'm Damien Ambrose- an 11 year old self-taught web developer who makes cool stuff, or at least tries! As of now, I'm in 6<sup>th</sup> grade as I'm writing this.
 My attitiute towards programming and Javascript in perticular is try it myself. It's much more fun that googling and who knows? Maybe 0.00001% of the time it'll work!
@@ -23,7 +23,7 @@ Hobbies: Painting, programming, procrastinating
  <blockquote> I need your help
  
 <br>
-I am VERY new to github and if you found anything wrong, tag me (is that how it works?), or at least email me. Don't forget to remind me that you're from github. Be nice. Please.
+I am relatively new to github, so much so I wrote this in HTML markup, not github markdown. If you found anything wrong, tag me (is that how it works?) or at least email me. Don't forget to remind me that you're from github. Be nice. Please.
 
  </blockquote>
  <br>
