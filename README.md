@@ -24,7 +24,9 @@ Hobbies: Painting, programming, procrastinating
  
 <br>
 I am relatively new to github, so much so I wrote this in HTML markup, not github markdown. If you found anything wrong, tag me (is that how it works?) or at least email me. Don't forget to remind me that you're from github. Be nice. Please.
-
+<br>
+ <br>
+ Before I forget, the portfolio is on the to-do list. Stay calm.
  </blockquote>
  <br>
 Git going, or git gone!
