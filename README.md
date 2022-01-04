@@ -17,4 +17,3 @@ Hobbies: Painting, programming, procrastinating
  <blockquote> 
 Psst! Wanna get notified on my newest projects? Well, you're in luck! This April, I'm opening a newsletter, where I post code snippets, my development journey, behind the scenes and even sneak peaks into upcoming projects, so stay tuned!
  </blockquote>
- DFTBA!
