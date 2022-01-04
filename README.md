@@ -15,5 +15,5 @@
 🚨Psst! Wanna get notified on my newest projects? Well, you're in luck! This April, I'm opening a newsletter, where I post code snippets, behind the scenes and even sneak peaks into upcoming projects, so stay tuned!
 
 
-  <b>UPDATE:</b> Along with the newsletter, get ready for a blog! That's right, this holiday season, I'll be making a blog on my development journey! Whether you're a seasoned hacker or a novice coder, you're sure to find something to make your development journey better!
+  <b>UPDATE:</b> Along with the newsletter, get ready for a blog! That's right, this holiday season, I'll be making a blog on my development journey! Whether you're a seasoned hacker or a novice programmer, you're sure to find something to make your development journey more fun!
  </blockquote>
