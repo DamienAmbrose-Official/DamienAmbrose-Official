@@ -1,5 +1,6 @@
-![Name](https://user-images.githubusercontent.com/89913900/194768496-b722a024-c649-44cb-9055-9f9077067a8c.png)
-<br><br>
+![Name](https://user-images.githubusercontent.com/89913900/194768954-3bfd4e2f-f638-46ef-9a31-06b6a6a15cef.png)
+
+
 <p>Hi, I'm Damien Ambrose, a 12-year-old web enthusiast with a passion for UI/UX. I'm a self-taught programmer, novice artist, and a student. I started programming a couple years ago, and oh boy, has it been a rollercoaster! I really want to become a Full Stack developer but without that much help from basically anyone, it hasn’t been that easy. 
 
  I’m mainly a frontend developer and use GitHub primarily to host sites. And yes, all my projects are open source, so feel free to dig around in the source code! I’m also into Blender and Unity, so expect some pretty mediocre (to downright painful) games to sneak into my pins. I'm also trying out node, but I don't use it more then to install packages, so don't expect some fancy backend frameworks or anything like that.
