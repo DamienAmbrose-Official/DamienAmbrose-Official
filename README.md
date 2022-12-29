@@ -1,1 +1,1 @@
-![Christmas](https://user-images.githubusercontent.com/89913900/208851583-6445479e-d358-4a16-a63c-13b7cc779683.png)
+![New Years](https://user-images.githubusercontent.com/89913900/209908745-72298ae8-50dc-496b-9942-435151fc0b88.png)
