@@ -1,1 +1,1 @@
-![Birthday](https://user-images.githubusercontent.com/89913900/225298226-4c252714-55f1-4890-8b34-240158ddac6d.png)
+![Standard](https://user-images.githubusercontent.com/89913900/226405709-60671348-df95-46c7-af35-10dacbb32e2a.png)
